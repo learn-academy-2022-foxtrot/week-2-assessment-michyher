@@ -23,7 +23,7 @@ Researched answer: The predefined parameters that the JavaScript built in method
 
 Your answer: The difference between map and filter is that map is making a new array by changing the elements in the array one by one. Filter is actually creating a brand new array by taking off elements that don't correspond. 
 
-Researched answer: Map is modifying the individal elements in an array, while filter is making a new array as well as taking off the elements that don't belong there. 
+Researched answer: Map is modifying the individual elements in an array, while filter is making a new array as well as taking off the elements that don't belong there. 
 
 4. What is iteration?
 
